@@ -1,0 +1,11 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.fuente{
+	-fx-font-family: "Pacifico";
+	-fx-font-size: 30px;
+}
+
+.fuente1{
+	-fx-font-family: "Vacations in Phuket";
+	-fx-font-size: 30px;
+}
